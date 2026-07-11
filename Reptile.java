@@ -1,0 +1,3 @@
+interface Reptile {
+    void shedSkin();
+}
